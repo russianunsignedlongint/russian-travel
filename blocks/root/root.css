@@ -5,6 +5,12 @@
     font-weight:normal;
 }
 
+@font-face {
+	src: url('../../vendor/Inter-3.18/InterWeb/Inter-Black.woff'), url("../../vendor/Inter-3.18/InterWeb/Inter-Black.woff2");
+	font-family: 'Inter'; 
+    font-weight:normal;
+    font-style: black;
+}
 
 .root{
     background-color: #2A2C2F;
