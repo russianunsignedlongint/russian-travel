@@ -1,0 +1,11 @@
+.photo__grid{
+    margin-top: 92px;
+    margin-left: 48px;
+    margin-right: 48px;
+    display: grid;
+    grid-template-columns: 284px 284px 284px 284px;
+    grid-template-rows: 213px 213px 213px 213px;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+
+}
