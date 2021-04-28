@@ -3,5 +3,7 @@
     margin-bottom: 8px;
     width:984px;
     height:615px;
-    border: white 2px solid;
+    margin-right: auto;
+    margin-left: auto;
+    z-index: 0;
 }

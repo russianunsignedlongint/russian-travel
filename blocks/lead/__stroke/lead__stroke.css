@@ -1,0 +1,9 @@
+.lead__stroke{
+    width:886px;
+    height:225px;
+    z-index: 1;
+    position: absolute;
+    left:23px;
+    right:23px;
+    top:496px;
+}
