@@ -1,0 +1,7 @@
+.intro{
+    display:flex;
+    flex-direction: column;
+    height:690px;
+    width: 429px;
+    border:4px solid yellow;
+}
