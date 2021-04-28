@@ -1,0 +1,14 @@
+.place__paragraph{
+font-size: 18px;
+line-height: 29px;
+margin-left: 500px;
+margin-top:  48px;
+width:484px;
+height:145px;
+color:white;
+}
+.place__paragraph:nth-child(4n+1){
+    margin-top:  26px;
+    height:203px;
+    margin-bottom: 86px;
+}

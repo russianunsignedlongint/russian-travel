@@ -1,0 +1,14 @@
+.place__link{
+    position: absolute;
+    width:456px;
+    height:22px;
+    top: 130px;
+    margin-left: 500px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    border: 2px solid red;
+    color:white;
+    font-style: regular;
+
+}

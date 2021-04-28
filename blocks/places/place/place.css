@@ -1,0 +1,12 @@
+.place{
+    position: relative;
+    width:984px;
+    height: 660px;
+    border: 2px solid yellow;
+    padding: 0;
+    margin-bottom: 80px;
+}
+
+.place:nth-last-of-type(){
+    margin-bottom: 0;
+}
