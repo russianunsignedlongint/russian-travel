@@ -2,7 +2,7 @@
     margin-top: 64px;
     margin-bottom: 8px;
     width:100%;
-    height:60%;
+    min-height:60vh;
     margin-right: auto;
     margin-left: auto;
     z-index: 0;

@@ -1,13 +1,11 @@
 .footer__link {
 
-    max-width: 94px;
     color:white;
     font-size: 14px;
     line-height: 18px;
     width:57px;
     height:18px;
     margin-top: 0;
-    margin-right: 18px;
     border: 2px solid yellow;
 
 }

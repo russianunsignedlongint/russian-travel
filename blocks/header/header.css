@@ -1,5 +1,5 @@
 .header{
-    width:1184px;
+    width:90%;
     height:52px;
     margin-left: 48px;
     margin-top: 28px;
@@ -10,5 +10,5 @@
     border: 1px solid red;
     margin-top: 0;
     margin-bottom: 0;
-    padding: 0;
+    
 }
