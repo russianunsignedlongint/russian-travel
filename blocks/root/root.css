@@ -9,7 +9,6 @@
 	src: url('../../vendor/Inter-3.18/InterWeb/Inter-Black.woff'), url("../../vendor/Inter-3.18/InterWeb/Inter-Black.woff2");
 	font-family: 'Inter'; 
     font-weight:normal;
-    font-style: black;
 }
 
 .root{

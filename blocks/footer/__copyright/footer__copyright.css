@@ -1,0 +1,12 @@
+.footer__copyright{
+
+    margin-top: 0;
+    position: absolute;
+    right:0;
+    margin-right: 0;
+    width:186px;
+    height:16px;
+    color: white;
+    border: yellow 2px solid; 
+
+}
