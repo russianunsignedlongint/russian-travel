@@ -1,13 +1,13 @@
 
 @font-face {
 	src: url('../../vendor/Inter-3.18/InterWeb/Inter-Regular.woff'), url("../../vendor/Inter-3.18/InterWeb/Inter-Regular.woff2");
-	font-family: 'Inter'; 
+	font-family: 'Inter';
     font-weight:normal;
 }
 
 @font-face {
 	src: url('../../vendor/Inter-3.18/InterWeb/Inter-Black.woff'), url("../../vendor/Inter-3.18/InterWeb/Inter-Black.woff2");
-	font-family: 'Inter'; 
+	font-family: 'Inter';
     font-weight:normal;
 }
 
@@ -15,7 +15,7 @@
     background-color: #2A2C2F;
     margin: 0 auto;
     min-width: 320px;
-    max-width: 1280px ;
+    max-width: 1280px;
     font-family: Inter;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
