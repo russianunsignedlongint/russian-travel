@@ -17,7 +17,7 @@
 
 @import url(../blocks/photo__grid/__image/photo__grid__image.css);
 
-@import url(../blocks/photo__grid/photo__grid.css);
+@import url(../blocks/photo/__grid/photo__grid.css);
 
 
 @import url(../blocks/places/places.css);
