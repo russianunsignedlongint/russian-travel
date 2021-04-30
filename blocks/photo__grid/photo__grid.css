@@ -8,7 +8,6 @@
     grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
     grid-column-gap: 16px;
     grid-row-gap: 16px;
-    border: 2px solid red;
     padding: 0;
     grid-auto-flow: dense;
 }
